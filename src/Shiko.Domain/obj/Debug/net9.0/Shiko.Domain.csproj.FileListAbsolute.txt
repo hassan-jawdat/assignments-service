@@ -1,0 +1,11 @@
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\bin\Debug\net9.0\Shiko.Domain.deps.json
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\bin\Debug\net9.0\Shiko.Domain.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\bin\Debug\net9.0\Shiko.Domain.pdb
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.AssemblyInfoInputs.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.AssemblyInfo.cs
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\refint\Shiko.Domain.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\Shiko.Domain.pdb
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Domain\obj\Debug\net9.0\ref\Shiko.Domain.dll

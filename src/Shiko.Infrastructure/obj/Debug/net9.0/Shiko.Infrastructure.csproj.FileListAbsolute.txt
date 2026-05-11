@@ -1,0 +1,17 @@
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Infrastructure.deps.json
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Infrastructure.runtimeconfig.json
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Infrastructure.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Infrastructure.pdb
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Domain.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\bin\Debug\net9.0\Shiko.Domain.pdb
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.AssemblyInfo.cs
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.In.EA4A6CBD.Up2Date
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\refint\Shiko.Infrastructure.dll
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.pdb
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\Shiko.Infrastructure.genruntimeconfig.cache
+C:\Users\hassa\Desktop\ASP.NET-shiko\src\Shiko.Infrastructure\obj\Debug\net9.0\ref\Shiko.Infrastructure.dll
